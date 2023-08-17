@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pal</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steezyrish&label=Profile%20views&color=0e75b6&style=flat" alt="steezyrish" /> </p>
+
 - 📫 How to reach me **pal.rish001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
