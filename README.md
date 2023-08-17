@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pal</h1>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw3gUi8ZNL2wUw5jrQhVNKpM&ust=1692367661497000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJihhf_u44ADFQAAAAAdAAAAABAD">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steezyrish&label=Profile%20views&color=0e75b6&style=flat" alt="steezyrish" /> </p>
 
 - 📫 How to reach me **pal.rish001@gmail.com**
